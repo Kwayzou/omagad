@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
-  "notes": "OMAGAD 2.3.0\n• Ouverture beaucoup plus rapide : l'interface s'affiche tout de suite, le moteur se charge pendant l'animation\n• Animation de lancement plus longue (environ 5 s), lettres une à une, logo qui respire\n• Sons plus doux, avec un réglage du volume dans les Réglages",
-  "file": "updates/omagad-update-2.3.0.zip"
+  "version": "2.3.1",
+  "notes": "OMAGAD 2.3.1\n• Corrige l'erreur « open() got an unexpected keyword argument 'metadata_errors' » pendant la transcription",
+  "file": "updates/omagad-update-2.3.1.zip"
 }
