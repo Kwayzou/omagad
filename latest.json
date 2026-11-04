@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
-  "notes": "OMAGAD 2.1.1\n• Installateur .dmg vérifié après sa création (plus d'image disque abîmée), avec sa taille et son empreinte pour contrôler la copie sur un autre Mac",
-  "file": "updates/omagad-update-2.1.1.zip"
+  "version": "2.2.0",
+  "notes": "OMAGAD 2.2.0\n• Lancement plus rapide : la fenêtre s'ouvre tout de suite, le moteur se charge en parallèle\n• Animation de lancement avec fond sonore : le nom apparaît, le logo arrive en grand puis se pose dans Clipagad (clic pour passer)\n• Sons de fin façon DaVinci : rendu terminé, analyse terminée, erreur\n• Animations dans toute l'app (écrans, fenêtres, boutons, barres de progression)\n• Réglages : activer ou couper l'animation et les sons",
+  "file": "updates/omagad-update-2.2.0.zip"
 }
