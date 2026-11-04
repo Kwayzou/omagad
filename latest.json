@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
-  "notes": "OMAGAD 2.2.0\n• Lancement plus rapide : la fenêtre s'ouvre tout de suite, le moteur se charge en parallèle\n• Animation de lancement avec fond sonore : le nom apparaît, le logo arrive en grand puis se pose dans Clipagad (clic pour passer)\n• Sons de fin façon DaVinci : rendu terminé, analyse terminée, erreur\n• Animations dans toute l'app (écrans, fenêtres, boutons, barres de progression)\n• Réglages : activer ou couper l'animation et les sons",
-  "file": "updates/omagad-update-2.2.0.zip"
+  "version": "2.3.0",
+  "notes": "OMAGAD 2.3.0\n• Ouverture beaucoup plus rapide : l'interface s'affiche tout de suite, le moteur se charge pendant l'animation\n• Animation de lancement plus longue (environ 5 s), lettres une à une, logo qui respire\n• Sons plus doux, avec un réglage du volume dans les Réglages",
+  "file": "updates/omagad-update-2.3.0.zip"
 }
