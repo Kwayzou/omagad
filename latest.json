@@ -1,5 +1,5 @@
 {
-  "version": "1.9.2",
-  "notes": "OMAGAD 1.9.2\n• Mises à jour automatiques depuis GitHub (Kwayzou/omagad) : plus besoin de télécharger les fichiers",
-  "file": "updates/omagad-update-1.9.2.zip"
+  "version": "2.0.0",
+  "notes": "OMAGAD 2.0.0\n• Nouvel accueil : choisis ton module (Clipagad, et un second module bientôt)\n• Accroche : mouvement aléatoire haut / bas / gauche / droite, réglable à la main (amplitude, rotation, vitesse, « Nouveau mouvement »)\n• Nom du projet demandé à l'import\n• Export : un dossier au nom du projet, clips nommés 1, 2, 3… (ou « Projet 1 », ou « 1 - accroche »)\n• Nom de chaque clip modifiable dans l'export",
+  "file": "updates/omagad-update-2.0.0.zip"
 }
