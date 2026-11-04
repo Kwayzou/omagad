@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "notes": "OMAGAD 2.1.0\n• Les sous-titres se masquent pendant le titre accrocheur (réglable dans Sous-titres)\n• Recadrage automatique bien plus précis : nouveau détecteur de visages et suivi sans retard, le sujet reste au centre\n• Création de compte au premier lancement, sur fond flouté",
-  "file": "updates/omagad-update-2.1.0.zip"
+  "version": "2.1.1",
+  "notes": "OMAGAD 2.1.1\n• Installateur .dmg vérifié après sa création (plus d'image disque abîmée), avec sa taille et son empreinte pour contrôler la copie sur un autre Mac",
+  "file": "updates/omagad-update-2.1.1.zip"
 }
