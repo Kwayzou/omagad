@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
-  "notes": "OMAGAD 2.4.0\n• Nouveau module SONAGAD : répare le son saturé d'un set ou d'un concert filmé (détection automatique, reconstruction des crêtes, volume rééquilibré, écoute avant/après, export WAV et vidéo)",
-  "file": "updates/omagad-update-2.4.0.zip"
+  "version": "2.4.1",
+  "notes": "OMAGAD 2.4.1\n• SONAGAD : vraie restauration du son saturé. Les crêtes écrêtées sont reconstruites à partir du contenu musical (et plus seulement baissées), y compris sur un son compressé (MP4/AAC)\n• Option « Adoucir le grésillement » (timbre calé sur le début du set)\n• Synchro exacte avec la vidéo (retard du limiteur compensé)",
+  "file": "updates/omagad-update-2.4.1.zip"
 }
