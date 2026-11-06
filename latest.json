@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1",
-  "notes": "OMAGAD 2.3.1\n• Corrige l'erreur « open() got an unexpected keyword argument 'metadata_errors' » pendant la transcription",
-  "file": "updates/omagad-update-2.3.1.zip"
+  "version": "2.4.0",
+  "notes": "OMAGAD 2.4.0\n• Nouveau module SONAGAD : répare le son saturé d'un set ou d'un concert filmé (détection automatique, reconstruction des crêtes, volume rééquilibré, écoute avant/après, export WAV et vidéo)",
+  "file": "updates/omagad-update-2.4.0.zip"
 }
