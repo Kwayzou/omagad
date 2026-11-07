@@ -1,5 +1,5 @@
 {
-  "version": "2.4.1",
-  "notes": "OMAGAD 2.4.1\n• SONAGAD : vraie restauration du son saturé. Les crêtes écrêtées sont reconstruites à partir du contenu musical (et plus seulement baissées), y compris sur un son compressé (MP4/AAC)\n• Option « Adoucir le grésillement » (timbre calé sur le début du set)\n• Synchro exacte avec la vidéo (retard du limiteur compensé)",
-  "file": "updates/omagad-update-2.4.1.zip"
+  "version": "2.5.0",
+  "notes": "OMAGAD 2.5.0\n• SONAGAD : nouveau dé-limiteur (redonne le punch d'un son écrasé par un limiteur, par ex. une table de mixage poussée dans le rouge)\n• SONAGAD : anti-grésillement dynamique (adoucit les aigus agressifs seulement sur les coups forts)\n• La reconstruction des crêtes coupées devient une option, proposée automatiquement quand elle est utile",
+  "file": "updates/omagad-update-2.5.0.zip"
 }
