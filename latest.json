@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
-  "notes": "OMAGAD 3.0.0\n• Nouveau module LIVEAGAD : glisse la timeline DaVinci d'une date (FCPXML ou XML), OMAGAD analyse le set (tempo, drops, passages les plus forts) et fabrique automatiquement des dizaines de clips verticaux\n• Multicam coupé sur les mesures (changement de caméra pile sur le drop), chaque caméra seule, versions courtes et longues, zooms « punch » sur le drop\n• Recadrage automatique sur le sujet, son au niveau des réseaux\n• Export automatique dans un dossier au nom de la date : 1.mp4, 2.mp4… du meilleur au moins bon, avec la liste des clips",
-  "file": "updates/omagad-update-3.0.0.zip"
+  "version": "3.1.0",
+  "notes": "OMAGAD 3.1.0\n• L'accueil présente les trois modules côte à côte : CLIPAGAD, LIVEAGAD et SONAGAD\n• SONAGAD (réparation du son saturé : dé-limiteur, anti-grésillement, reconstruction des crêtes) rejoint la version principale",
+  "file": "updates/omagad-update-3.1.0.zip"
 }
