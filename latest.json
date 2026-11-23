@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0",
-  "notes": "OMAGAD 3.1.0\n• L'accueil présente les trois modules côte à côte : CLIPAGAD, LIVEAGAD et SONAGAD\n• SONAGAD (réparation du son saturé : dé-limiteur, anti-grésillement, reconstruction des crêtes) rejoint la version principale",
-  "file": "updates/omagad-update-3.1.0.zip"
+  "version": "3.2.0",
+  "notes": "OMAGAD 3.2.0\n• LIVEAGAD : rôle de chaque caméra (Booth, Fosse, FOH, Autre, Ignorée), deviné tout seul d'après le nom des pistes\n• Montage multicam réglable : booth pendant la montée, changement de caméra pile sur le drop (une version par caméra choisie), puis alternance toutes les N mesures — appliqué à tous les clips\n• Timeline façon DaVinci (pistes V1/V2…, A1, timecode, marqueurs des drops) ; survole un clip pour voir ses plans\n• Lien avec DaVinci : « Récupérer depuis DaVinci » (sans exporter) et « Envoyer les clips dans DaVinci » (une timeline verticale par clip)",
+  "file": "updates/omagad-update-3.2.0.zip"
 }
