@@ -1,5 +1,5 @@
 {
-  "version": "3.4.0",
-  "notes": "OMAGAD 3.4.0\n• LIVEAGAD : monte chaque clip directement dans l'app, comme Dropfinder ou la page Cut de DaVinci : clique un clip pour l'ouvrir\n• Tous les angles en même temps : en lecture, clique une caméra (ou touche 1 à 9) pour couper en direct, calé sur les temps\n• Timeline du clip : lame, déplacement des coupes, début / fin, grille des mesures, drop, annuler / rétablir\n• Cadrage par plan : suivi auto ou manuel (glisse l'image), zoom ; zooms « punch » déplaçables avec leur force\n• Couleur : 6 looks, import de LUT .cube, exposition, contraste, saturation, température, sur un clip ou toute la date\n• Texte accrocheur au style de CLIPAGAD, volume et fondus du son\n• « Exporter ce clip » et « DaVinci » : le clip part dans DaVinci avec coupes, cadrages, couleur (CDL + LUT), texte et repères des zooms\n• Double-clic sur la timeline de la date pour créer un clip à la main ; tes clips retouchés sont gardés quand tu relances la génération",
-  "file": "updates/omagad-update-3.4.0.zip"
+  "version": "3.5.0",
+  "notes": "OMAGAD 3.5.0\n• Nouveau : le panneau OMAGAD dans DaVinci Resolve Studio (Espace de travail ▸ Workflow Integrations ▸ OMAGAD)\n• Depuis DaVinci : envoie la timeline ouverte à LIVEAGAD en un clic (et lance la génération des clips)\n• Tes clips LIVEAGAD s'affichent dans le panneau : importe-les en timelines verticales retouchables (coupes, cadrages, couleur, LUT, texte), en vidéos dans le Media Pool, ou au bout de la timeline ouverte\n• Double-clic sur un clip dans le panneau : il s'ouvre dans l'éditeur d'OMAGAD\n• Installation : LIVEAGAD ▸ carte DaVinci Resolve ▸ « Installer le panneau », puis redémarre DaVinci",
+  "file": "updates/omagad-update-3.5.0.zip"
 }
