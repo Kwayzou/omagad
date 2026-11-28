@@ -1,5 +1,5 @@
 {
-  "version": "3.3.0",
-  "notes": "OMAGAD 3.3.0\n• LIVEAGAD : jusqu'à 8 caméras et plus (les pistes peu utilisées, comme un drone, sont gardées)\n• « + Ajouter une caméra » : crée tes propres types (Drone, Scène, Platines…), avec leur couleur, utilisables dans les règles du multicam\n• Les types sont reconnus tout seuls d'après le nom des pistes dans DaVinci",
-  "file": "updates/omagad-update-3.3.0.zip"
+  "version": "3.4.0",
+  "notes": "OMAGAD 3.4.0\n• LIVEAGAD : monte chaque clip directement dans l'app, comme Dropfinder ou la page Cut de DaVinci : clique un clip pour l'ouvrir\n• Tous les angles en même temps : en lecture, clique une caméra (ou touche 1 à 9) pour couper en direct, calé sur les temps\n• Timeline du clip : lame, déplacement des coupes, début / fin, grille des mesures, drop, annuler / rétablir\n• Cadrage par plan : suivi auto ou manuel (glisse l'image), zoom ; zooms « punch » déplaçables avec leur force\n• Couleur : 6 looks, import de LUT .cube, exposition, contraste, saturation, température, sur un clip ou toute la date\n• Texte accrocheur au style de CLIPAGAD, volume et fondus du son\n• « Exporter ce clip » et « DaVinci » : le clip part dans DaVinci avec coupes, cadrages, couleur (CDL + LUT), texte et repères des zooms\n• Double-clic sur la timeline de la date pour créer un clip à la main ; tes clips retouchés sont gardés quand tu relances la génération",
+  "file": "updates/omagad-update-3.4.0.zip"
 }
